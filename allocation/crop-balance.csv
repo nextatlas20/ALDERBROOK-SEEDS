@@ -1,0 +1,4 @@
+crop_code,crop_name,available_packets,valid_requested_packets,awarded_packets,waitlisted_packets,remaining_packets
+BEAN,Blue Lake Bean,6,9,5,4,1
+KALE,Winterbor Kale,3,4,2,2,1
+TOMATO,Red Cherry Tomato,4,5,2,3,2

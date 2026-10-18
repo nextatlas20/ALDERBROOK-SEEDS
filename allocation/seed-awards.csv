@@ -1,0 +1,8 @@
+crop_code,crop_rank,submitted_on,request_id,garden_id,garden_name,crop_name,packets,member_status,decision
+BEAN,1,2026-09-02,RQ-104,G-LOT,Library Lot,Blue Lake Bean,2,ACTIVE,AWARDED
+BEAN,2,2026-09-03,RQ-100,G-ORCH,Orchard Terrace,Blue Lake Bean,3,ACTIVE,AWARDED
+BEAN,3,2026-09-01,RQ-102,G-ORCH,Orchard Terrace,Blue Lake Bean,4,ACTIVE,WAITLISTED
+KALE,1,2026-09-03,RQ-112,G-ORCH,Orchard Terrace,Winterbor Kale,2,ACTIVE,AWARDED
+KALE,2,2026-09-01,RQ-101,G-LOT,Library Lot,Winterbor Kale,2,PAUSED,WAITLISTED
+TOMATO,1,2026-09-01,RQ-109,G-LOT,Library Lot,Red Cherry Tomato,2,ACTIVE,AWARDED
+TOMATO,2,2026-09-02,RQ-103,G-RIVER,Riverside Beds,Red Cherry Tomato,3,ACTIVE,WAITLISTED
